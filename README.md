@@ -30,5 +30,11 @@ Collecting Samples of your faces with the help of HAAR Cascase classifier.
 
 > Put the file 'haarcascade_frontalface_default.xml' in the script folder
 
+> Create a folder ***user*** inside ***faces*** in the ***script*** folder
+
 > Run the script CreateFaceSamples.py
+
+> Post completion of the script it will show ***100 Samples collected*** and check the ***user*** folder contains 100 images.
+
+
 
