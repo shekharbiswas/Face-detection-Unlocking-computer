@@ -24,4 +24,11 @@ For Anaconda Environment:
 > conda install -c michael_wild opencv-contrib 
 
 
+## Gathering Samples:
+
+Collecting Samples of your faces with the help of HAAR Cascase classifier.
+
+> Put the file 'haarcascade_frontalface_default.xml' in the script folder
+
+> Run the script CreateFaceSamples.py
 
