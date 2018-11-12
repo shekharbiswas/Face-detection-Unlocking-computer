@@ -37,4 +37,4 @@ Collecting Samples of your faces with the help of HAAR Cascase classifier.
 > Post completion of the script it will show ***100 Samples collected*** and check the ***user*** folder contains 100 images.
 
 
-
+## Training Samples:
