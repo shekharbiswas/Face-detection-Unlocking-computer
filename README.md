@@ -43,3 +43,5 @@ Collecting Samples of your faces with the help of HAAR Cascase classifier.
 
 
 ## FacialRecognition
+
+> Run the script ***FacialRecognition.py*** to do the testing.
