@@ -38,3 +38,8 @@ Collecting Samples of your faces with the help of HAAR Cascase classifier.
 
 
 ## Training Samples:
+
+> Run the script ***TrainSamples.py*** to train the model.
+
+
+## FacialRecognition
